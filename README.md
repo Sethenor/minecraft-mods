@@ -1,2 +1,5 @@
 # minecraft-mods
- Not my work, just for sharing purposes.
+
+![minecraft vanilla essentials](https://user-images.githubusercontent.com/2983567/122686638-750d9200-d212-11eb-9e3f-ea561efe37a8.png)
+
+*Not my work, just for sharing purposes.*
