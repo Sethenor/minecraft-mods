@@ -27,11 +27,17 @@
 [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/optifabric/files/all)
 
+[OptiFine](https://optifine.net/home)
+[(downloads)](https://optifine.net/downloads)
+
 [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/files/all)
 
 [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all)
+
+
+
 
 
 
