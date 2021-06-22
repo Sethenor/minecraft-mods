@@ -1,6 +1,6 @@
 ![minecraft vanilla essentials](https://user-images.githubusercontent.com/2983567/122686638-750d9200-d212-11eb-9e3f-ea561efe37a8.png)
 
-## Fabric
+# Fabric
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)
 
@@ -35,8 +35,6 @@
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all)
 
 
-***
-
-#### Disclaimer
+## Disclaimer
 
 *Not my work, just for sharing purposes.*
