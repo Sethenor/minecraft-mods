@@ -4,7 +4,7 @@
 
 ## Fabric
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)
-[view all](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)
+[[view all]](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)
 
 
 [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
