@@ -34,6 +34,6 @@
 [(all files)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/all)
 
 
-## Disclaimer
+### Disclaimer
 
 *Not my work, just for sharing purposes.*
