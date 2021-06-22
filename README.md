@@ -38,3 +38,5 @@
 ## Disclaimer
 
 *Not my work, just for sharing purposes.*
+
+&copy; Sethenor designs 2021
